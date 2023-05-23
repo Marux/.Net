@@ -1,0 +1,15 @@
+/Users/victortrimpai/Projects/Calculadora/Calculadora/bin/Debug/net6.0/Calculadora
+/Users/victortrimpai/Projects/Calculadora/Calculadora/bin/Debug/net6.0/Calculadora.deps.json
+/Users/victortrimpai/Projects/Calculadora/Calculadora/bin/Debug/net6.0/Calculadora.runtimeconfig.json
+/Users/victortrimpai/Projects/Calculadora/Calculadora/bin/Debug/net6.0/Calculadora.dll
+/Users/victortrimpai/Projects/Calculadora/Calculadora/bin/Debug/net6.0/Calculadora.pdb
+/Users/victortrimpai/Projects/Calculadora/Calculadora/obj/Debug/net6.0/Calculadora.csproj.AssemblyReference.cache
+/Users/victortrimpai/Projects/Calculadora/Calculadora/obj/Debug/net6.0/Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+/Users/victortrimpai/Projects/Calculadora/Calculadora/obj/Debug/net6.0/Calculadora.AssemblyInfoInputs.cache
+/Users/victortrimpai/Projects/Calculadora/Calculadora/obj/Debug/net6.0/Calculadora.AssemblyInfo.cs
+/Users/victortrimpai/Projects/Calculadora/Calculadora/obj/Debug/net6.0/Calculadora.csproj.CoreCompileInputs.cache
+/Users/victortrimpai/Projects/Calculadora/Calculadora/obj/Debug/net6.0/Calculadora.dll
+/Users/victortrimpai/Projects/Calculadora/Calculadora/obj/Debug/net6.0/refint/Calculadora.dll
+/Users/victortrimpai/Projects/Calculadora/Calculadora/obj/Debug/net6.0/Calculadora.pdb
+/Users/victortrimpai/Projects/Calculadora/Calculadora/obj/Debug/net6.0/Calculadora.genruntimeconfig.cache
+/Users/victortrimpai/Projects/Calculadora/Calculadora/obj/Debug/net6.0/ref/Calculadora.dll
