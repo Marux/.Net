@@ -1,0 +1,15 @@
+/Users/victortrimpai/Projects/CalculoSueldo/CalculoSueldo/bin/Debug/net6.0/CalculoSueldo
+/Users/victortrimpai/Projects/CalculoSueldo/CalculoSueldo/bin/Debug/net6.0/CalculoSueldo.deps.json
+/Users/victortrimpai/Projects/CalculoSueldo/CalculoSueldo/bin/Debug/net6.0/CalculoSueldo.runtimeconfig.json
+/Users/victortrimpai/Projects/CalculoSueldo/CalculoSueldo/bin/Debug/net6.0/CalculoSueldo.dll
+/Users/victortrimpai/Projects/CalculoSueldo/CalculoSueldo/bin/Debug/net6.0/CalculoSueldo.pdb
+/Users/victortrimpai/Projects/CalculoSueldo/CalculoSueldo/obj/Debug/net6.0/CalculoSueldo.csproj.AssemblyReference.cache
+/Users/victortrimpai/Projects/CalculoSueldo/CalculoSueldo/obj/Debug/net6.0/CalculoSueldo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/victortrimpai/Projects/CalculoSueldo/CalculoSueldo/obj/Debug/net6.0/CalculoSueldo.AssemblyInfoInputs.cache
+/Users/victortrimpai/Projects/CalculoSueldo/CalculoSueldo/obj/Debug/net6.0/CalculoSueldo.AssemblyInfo.cs
+/Users/victortrimpai/Projects/CalculoSueldo/CalculoSueldo/obj/Debug/net6.0/CalculoSueldo.csproj.CoreCompileInputs.cache
+/Users/victortrimpai/Projects/CalculoSueldo/CalculoSueldo/obj/Debug/net6.0/CalculoSueldo.dll
+/Users/victortrimpai/Projects/CalculoSueldo/CalculoSueldo/obj/Debug/net6.0/refint/CalculoSueldo.dll
+/Users/victortrimpai/Projects/CalculoSueldo/CalculoSueldo/obj/Debug/net6.0/CalculoSueldo.pdb
+/Users/victortrimpai/Projects/CalculoSueldo/CalculoSueldo/obj/Debug/net6.0/CalculoSueldo.genruntimeconfig.cache
+/Users/victortrimpai/Projects/CalculoSueldo/CalculoSueldo/obj/Debug/net6.0/ref/CalculoSueldo.dll
