@@ -1,0 +1,15 @@
+/Users/victortrimpai/Projects/Ejercicio3/Ejercicio3/obj/Debug/net6.0/Ejercicio3.csproj.AssemblyReference.cache
+/Users/victortrimpai/Projects/Ejercicio3/Ejercicio3/obj/Debug/net6.0/Ejercicio3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/victortrimpai/Projects/Ejercicio3/Ejercicio3/obj/Debug/net6.0/Ejercicio3.AssemblyInfoInputs.cache
+/Users/victortrimpai/Projects/Ejercicio3/Ejercicio3/obj/Debug/net6.0/Ejercicio3.AssemblyInfo.cs
+/Users/victortrimpai/Projects/Ejercicio3/Ejercicio3/obj/Debug/net6.0/Ejercicio3.csproj.CoreCompileInputs.cache
+/Users/victortrimpai/Projects/Ejercicio3/Ejercicio3/bin/Debug/net6.0/Ejercicio3
+/Users/victortrimpai/Projects/Ejercicio3/Ejercicio3/bin/Debug/net6.0/Ejercicio3.deps.json
+/Users/victortrimpai/Projects/Ejercicio3/Ejercicio3/bin/Debug/net6.0/Ejercicio3.runtimeconfig.json
+/Users/victortrimpai/Projects/Ejercicio3/Ejercicio3/bin/Debug/net6.0/Ejercicio3.dll
+/Users/victortrimpai/Projects/Ejercicio3/Ejercicio3/bin/Debug/net6.0/Ejercicio3.pdb
+/Users/victortrimpai/Projects/Ejercicio3/Ejercicio3/obj/Debug/net6.0/Ejercicio3.dll
+/Users/victortrimpai/Projects/Ejercicio3/Ejercicio3/obj/Debug/net6.0/refint/Ejercicio3.dll
+/Users/victortrimpai/Projects/Ejercicio3/Ejercicio3/obj/Debug/net6.0/Ejercicio3.pdb
+/Users/victortrimpai/Projects/Ejercicio3/Ejercicio3/obj/Debug/net6.0/Ejercicio3.genruntimeconfig.cache
+/Users/victortrimpai/Projects/Ejercicio3/Ejercicio3/obj/Debug/net6.0/ref/Ejercicio3.dll
