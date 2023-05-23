@@ -1,0 +1,15 @@
+/Users/victortrimpai/Projects/BancoThink/BancoThink/bin/Debug/net6.0/BancoThink
+/Users/victortrimpai/Projects/BancoThink/BancoThink/bin/Debug/net6.0/BancoThink.deps.json
+/Users/victortrimpai/Projects/BancoThink/BancoThink/bin/Debug/net6.0/BancoThink.runtimeconfig.json
+/Users/victortrimpai/Projects/BancoThink/BancoThink/bin/Debug/net6.0/BancoThink.dll
+/Users/victortrimpai/Projects/BancoThink/BancoThink/bin/Debug/net6.0/BancoThink.pdb
+/Users/victortrimpai/Projects/BancoThink/BancoThink/obj/Debug/net6.0/BancoThink.csproj.AssemblyReference.cache
+/Users/victortrimpai/Projects/BancoThink/BancoThink/obj/Debug/net6.0/BancoThink.GeneratedMSBuildEditorConfig.editorconfig
+/Users/victortrimpai/Projects/BancoThink/BancoThink/obj/Debug/net6.0/BancoThink.AssemblyInfoInputs.cache
+/Users/victortrimpai/Projects/BancoThink/BancoThink/obj/Debug/net6.0/BancoThink.AssemblyInfo.cs
+/Users/victortrimpai/Projects/BancoThink/BancoThink/obj/Debug/net6.0/BancoThink.csproj.CoreCompileInputs.cache
+/Users/victortrimpai/Projects/BancoThink/BancoThink/obj/Debug/net6.0/BancoThink.dll
+/Users/victortrimpai/Projects/BancoThink/BancoThink/obj/Debug/net6.0/refint/BancoThink.dll
+/Users/victortrimpai/Projects/BancoThink/BancoThink/obj/Debug/net6.0/BancoThink.pdb
+/Users/victortrimpai/Projects/BancoThink/BancoThink/obj/Debug/net6.0/BancoThink.genruntimeconfig.cache
+/Users/victortrimpai/Projects/BancoThink/BancoThink/obj/Debug/net6.0/ref/BancoThink.dll
