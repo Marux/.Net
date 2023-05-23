@@ -1,0 +1,15 @@
+/Users/victortrimpai/Projects/Solemne1/Solemne1/bin/Debug/net6.0/Solemne1
+/Users/victortrimpai/Projects/Solemne1/Solemne1/bin/Debug/net6.0/Solemne1.deps.json
+/Users/victortrimpai/Projects/Solemne1/Solemne1/bin/Debug/net6.0/Solemne1.runtimeconfig.json
+/Users/victortrimpai/Projects/Solemne1/Solemne1/bin/Debug/net6.0/Solemne1.dll
+/Users/victortrimpai/Projects/Solemne1/Solemne1/bin/Debug/net6.0/Solemne1.pdb
+/Users/victortrimpai/Projects/Solemne1/Solemne1/obj/Debug/net6.0/Solemne1.csproj.AssemblyReference.cache
+/Users/victortrimpai/Projects/Solemne1/Solemne1/obj/Debug/net6.0/Solemne1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/victortrimpai/Projects/Solemne1/Solemne1/obj/Debug/net6.0/Solemne1.AssemblyInfoInputs.cache
+/Users/victortrimpai/Projects/Solemne1/Solemne1/obj/Debug/net6.0/Solemne1.AssemblyInfo.cs
+/Users/victortrimpai/Projects/Solemne1/Solemne1/obj/Debug/net6.0/Solemne1.csproj.CoreCompileInputs.cache
+/Users/victortrimpai/Projects/Solemne1/Solemne1/obj/Debug/net6.0/Solemne1.dll
+/Users/victortrimpai/Projects/Solemne1/Solemne1/obj/Debug/net6.0/refint/Solemne1.dll
+/Users/victortrimpai/Projects/Solemne1/Solemne1/obj/Debug/net6.0/Solemne1.pdb
+/Users/victortrimpai/Projects/Solemne1/Solemne1/obj/Debug/net6.0/Solemne1.genruntimeconfig.cache
+/Users/victortrimpai/Projects/Solemne1/Solemne1/obj/Debug/net6.0/ref/Solemne1.dll
