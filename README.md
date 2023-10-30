@@ -4,7 +4,7 @@ Este repositorio contiene códigos básicos que he aprendido durante un semestre
 
 ## Contenido
 
-- [Ejercicio 1: Banco Think](C#/BancoThink/): Programa desarrollado para uso en terminal.
+- [Ejercicio 1: Banco Think](C#/BancoThink): Programa desarrollado para uso en terminal.
 - [Ejercicio 1](ejercicio1/): Descripción del ejercicio 1 en C#.
 - [Ejercicio 2](ejercicio2/): Descripción del ejercicio 2 en C#.
 
