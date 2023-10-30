@@ -4,15 +4,15 @@ Este repositorio contiene códigos básicos que he aprendido durante un semestre
 
 ## Contenido
 
-- [Proyecto 1](proyecto1/): Breve descripción del primer proyecto en C#.
+- [Ejercicio 1: Banco Think](C#/BancoThink/): Programa desarrollado para uso en terminal.
 - [Ejercicio 1](ejercicio1/): Descripción del ejercicio 1 en C#.
 - [Ejercicio 2](ejercicio2/): Descripción del ejercicio 2 en C#.
 
 ## Tecnologías Utilizadas
 
 - Lenguaje de programación: C#
-- Entorno de desarrollo: [Nombre de tu entorno de desarrollo, por ejemplo, Visual Studio]
-- Bibliotecas y herramientas: [Lista de bibliotecas o herramientas específicas utilizadas en tus proyectos en C#].
+- Entorno de desarrollo: Visual Studio
+- Bibliotecas y herramientas: Git, Windows Form, Entity framework, ASP.net MVC
 
 ## Contribuciones
 
@@ -20,6 +20,6 @@ Siéntete libre de contribuir con tus propios códigos en C#, correcciones o mej
 
 ## Contacto
 
-Puedes contactarme a través de mi correo electrónico: [tu@email.com]
+Puedes contactarme a través de mi correo electrónico: victor.trimpai1987@gmail.com
 
 ¡Gracias por visitar mi repositorio!
