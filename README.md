@@ -4,9 +4,11 @@ Este repositorio contiene códigos básicos que he aprendido durante un semestre
 
 ## Contenido
 
-- [Ejercicio 1: Banco Think](C#/BancoThink/): Programa desarrollado para uso en terminal.
-- [Ejercicio 1](ejercicio1/): Descripción del ejercicio 1 en C#.
-- [Ejercicio 2](ejercicio2/): Descripción del ejercicio 2 en C#.
+- Ejercicio 1: Banco Think: Programa desarrollado para uso en terminal.
+- Ejercicio 2: Calculadora: Calculadora basica realizada en terminal C#.
+- Ejercicio 3: CalculoSueldo: Calculo de sueldo realizado en terminal C#.
+- Ejercicio 4: Ejercicio3 préstamo: Calculo de prestamo realizado en terminal C#.
+- Ejercicio 5: Solemne1: Ejercicio solemne 1 C#.
 
 ## Tecnologías Utilizadas
 
@@ -20,6 +22,6 @@ Siéntete libre de contribuir con tus propios códigos en C#, correcciones o mej
 
 ## Contacto
 
-Puedes contactarme a través de mi correo electrónico: victor.trimpai1987@gmail.com
+Puedes contactarme a través de mi [Instagram](https://www.instagram.com/vmtrdev/)
 
 ¡Gracias por visitar mi repositorio!
